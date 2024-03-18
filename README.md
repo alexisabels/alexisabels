@@ -9,7 +9,7 @@
 <br/>  
 
 - 👨‍💻 Estudiante de Desarrollo de Aplicaciones Web (DAW).
-- 🌱 Aprendiendo Kotlin 📱 y mejorando en React y JavaScript.
+- 🌱 Aprendiendo Kotlin 📱 y mejorando en Java, React y JavaScript.
 ---
 ### ⚡ | Skills
 
