@@ -9,7 +9,7 @@
 <br/>  
 
 - 👨‍💻 Estudiante de Desarrollo de Aplicaciones Web (DAW).
-- 🌱 Aprendiendo Java, React y JavaScript.
+- 🌱 Aprendiendo Java, React, JavaScript y TypeScript.
 ---
 ### ⚡ | Skills
 
@@ -25,7 +25,7 @@ Listado de tecnologías que uso:
 
 ### </> Desarrollo
 
-- Java (JDBC, Servlets, JSP), Git, HTML, JavaScript, React.js, SQL
+- React.js, Java (JDBC, Servlets, JSP), HTML, JavaScript, SQL, Jest, React Testing Library, Material UI, GitLab.
 
 
 ### 👨🏻‍🔬 DevOps
