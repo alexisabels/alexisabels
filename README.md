@@ -1,6 +1,6 @@
 # <div align="center">  <img src="https://i.pinimg.com/originals/be/b5/41/beb541eeb1ee06ba00ef55d5baa60773.gif" align="center" style="width: 30%" />
 </div>
- <div align="center"> <h3>I'm Alejandro, a frontend developer 👨‍💻⚛️ </h3></div>  
+ <div align="center"> <h3>I'm Alejandro, a web developer 👨‍💻⚛️ </h3></div>  
 
 <br/>  
 
@@ -15,9 +15,10 @@
 ```javascript
     const Alex = {
         about_me: "I'm a recently graduated Web Applications Development student with a passion for frontend programming.",
-        code: ["Javascript", "Java", "HTML", "CSS",  "Typescript"],
-        tools: ["React", "Jest", "React Testing Library", "Material UI", "Bootstrap", "Figma", "Firebase", "Azure", "Oracle Cloud", "Oracle SQL", "AWS", "GitLab", "Git"],
+        code: ["Javascript", "Java (JDBC, Servlets, JSP)", "HTML", "CSS",  "Typescript"],
+        tools: ["React", "Jest", "React Testing Library", "Material UI", "Bootstrap", "Firebase", "Azure", "Oracle Cloud", "AWS", "Ubuntu", "Apache", "GitLab", "Git"],
         architecture: ["microservices", "event-driven", "design system pattern"],
+        software: ["VSCode, Eclipse, Figma, Oracle SQL Developer"],
     };
 ```
 <h2 align="center">
