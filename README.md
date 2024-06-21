@@ -6,7 +6,8 @@
 
 <div align="center">
     <img sizes="" src="https://media4.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b952lp18eyr1qdcfnht9ga91hew6kwsxm4hdkwqyj80h&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" align="center" style="width:10%" />
-    <img sizes="" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" align="center" style="width: 10%" />
+     <img sizes="" src="https://i.imgur.com/0ziiNIV.gif" align="center" style="width: 10%" />
+
 </div>  
 <h2 align="center">
     About Me:
