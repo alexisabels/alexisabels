@@ -16,10 +16,9 @@
 ```javascript
     const Alex = {
         about_me: "I'm a recently graduated Web Applications Development student with a passion for frontend programming.",
-        code: ["Javascript", "Java (JDBC, Servlets, JSP)", "HTML", "CSS",  "Typescript"],
+        code: ["Javascript", "Java (JDBC, Servlets, JSP)", "HTML", "CSS"],
         tools: ["React", "Jest", "React Testing Library", "Material UI", "Bootstrap", "Firebase", "Azure", "Oracle Cloud", "AWS", "Ubuntu", "Apache", "GitLab", "Git"],
-        architecture: ["microservices", "event-driven", "design system pattern"],
-        software: ["VSCode, Eclipse, Figma, Oracle SQL Developer"],
+        software: ["VSCode, Eclipse, IntelliJ, Figma, Oracle SQL Developer"],
     };
 ```
 <h2 align="center">
@@ -40,7 +39,6 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://mui.com/)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
