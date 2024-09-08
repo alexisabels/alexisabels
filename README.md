@@ -1,9 +1,17 @@
+
 <div align="center">  
   <img src="https://i.pinimg.com/originals/be/b5/41/beb541eeb1ee06ba00ef55d5baa60773.gif" width="25%" />
 </div>
 
 <div align="center">  
   <h3>I'm Alejandro, a web developer 👨‍💻⚛️</h3>  
+  
+###  🚀 Check out my portfolio at:
+### **[alexisabel.com](https://alexisabel.com)**
+> 🌟 Explore my latest projects!
+
+</h3>
+
 </div>
 
 <br/>
@@ -24,8 +32,8 @@
 
 ```javascript
     const Alex = {
-        about_me: "I'm a recently graduated Web Applications Development student with a passion for frontend programming.",
-        code: ["Javascript", "Java (JDBC, Servlets, JSP)", "HTML", "CSS"],
+        about_me: "I'm a recently graduated Web Applications Development student with a passion for developing applications.",
+        code: ["Javascript", "Java EE (JDBC, Servlets, JSP)", "HTML", "CSS"],
         tools: ["React", "Jest", "React Testing Library", "Material UI", "Bootstrap", "Firebase", "Azure", "Oracle Cloud", "AWS", "Ubuntu", "Apache", "GitLab", "Git"],
         software: ["VSCode, Eclipse, IntelliJ, Figma, Oracle SQL Developer"],
     };
@@ -37,7 +45,7 @@
 
 <div align="center">
 
-[![Java](https://img.shields.io/badge/Java-FF5733?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![Java ](https://img.shields.io/badge/Java-FF5733?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![HTML](https://img.shields.io/badge/HTML5-FF6F61?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Bootstrap 5](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![CSS](https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -49,7 +57,6 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://mui.com/)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
 [![React Testing Library](https://img.shields.io/badge/React_Testing_Library-20232A?style=for-the-badge&logo=testing-library&logoColor=61DAFB)](https://testing-library.com/)
 [![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/)
