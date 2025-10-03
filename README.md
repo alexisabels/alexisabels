@@ -34,7 +34,7 @@
 ```javascript
     const Alex = {
         about_me: "I'm a recently graduated Web Applications Development student with a passion for developing applications.",
-        code: ["Javascript", "Java EE (JPA, JDBC, JSP)", "HTML", "CSS"],
+        code: ["Javascript", "Spring", "Java EE (JPA, JDBC, JSP)", "HTML", "CSS"],
         tools: ["React", "Jest", "Material UI", "Firebase", "Azure", "Oracle Cloud", "AWS", "Apache", "Git"],
         software: ["IntelliJ, Eclipse, Oracle SQL Developer"],
     };
@@ -58,4 +58,3 @@
 
 
 
-<p align="center"><img src="https://profile-counter.glitch.me/{alexisabels}/count.svg" alt="alexisabels :: Visitor's Count" /></p></p>
