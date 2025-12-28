@@ -27,23 +27,6 @@
 
 
 
-<h2 align="center">
-    About Me:
-</h2>
-
-```javascript
-    const Alex = {
-        about_me: "I'm a recently graduated Web Applications Development student with a passion for developing applications.",
-        code: ["Javascript", "Spring", "Java EE (JPA, JDBC, JSP)", "HTML", "CSS"],
-        tools: ["React", "Jest", "Material UI", "Firebase", "Azure", "Oracle Cloud", "AWS", "Apache", "Git"],
-        software: ["IntelliJ, Eclipse, Oracle SQL Developer"],
-    };
-```
-
-
-
-
-
 
 
 <div align="center">
