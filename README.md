@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">  
-  <h3>I'm Alejandro, a web developer 👨‍💻⚛️</h3>  
+  <h3>I'm Alejandro, a Software Engineer 👨‍💻</h3>  
   
 ###  🚀 Check out my portfolio at:
 ### **[alexisabel.com](https://alexisabel.com)**
